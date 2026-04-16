@@ -3,11 +3,11 @@
 
 End-to-end implementation of a Moving Target Indicator (MTI) radar signal processing chain, simulating detection of moving targets in the presence of ground clutter.
 
-##Overview
+## Overview
 
 This project models a classical pulsed radar processing pipeline, focusing on clutter suppression and target detection using MTI filtering and Doppler processing.
 
-#Processing Pipeline
+# Processing Pipeline
 
 Waveform Generation -> Clutter & Target Simulation -> MTI Filtering -> Range-Doppler Processing -> CFAR Detection
 
