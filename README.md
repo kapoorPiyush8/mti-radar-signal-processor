@@ -19,7 +19,7 @@ Waveform Generation -> Clutter & Target Simulation -> MTI Filtering -> Range-Dop
 - CFAR Detection (CA-CFAR)
 - Visualization (Range-Doppler map, Detection plot)
 
-##Key Outputs
+## Key Outputs
 
 - Range-Doppler maps
 - Clutter suppression using MTI
